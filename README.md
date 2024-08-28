@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @JakeFromSpotLock
 - 👀 I’m interested in... Aerospace, FinTech, and Football
-- 🌱 I’m currently learning... anything & everything I can
-- 💞️ I’m looking to collaborate on... Flutter mobile apps
+- 🌱 I’m currently learning... Anything & Everything I can
+- 💞️ I’m looking to collaborate on... Flutter Mobile Apps
 - 📫 How to reach me: jake@spotlockapp.com
+- 🎉 Check us out at: www.spotlockapp.com
 - ⚡ Fun fact: A pound of bricks weighs as much as a pound of feathers
 
 <!---
